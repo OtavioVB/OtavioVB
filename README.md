@@ -5,3 +5,4 @@
 - 📌 Conhecimento razoável em Back-End com a utilização do C#;
 - 📌 Iniciante em HTML5, CSS3 e JavaScript;
 - 🟩 Nível Adequado para criação de projetos em VBA;
+- 🟩 Criador da Planilha Digital de Estudos @rocketplanning;
