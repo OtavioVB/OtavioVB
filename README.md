@@ -4,6 +4,6 @@
 - 📊 Estudante Autodidata;
 - 📌 Conhecimento razoável em Back-End com a utilização do C#;
 - 📌 Iniciante em HTML5, CSS3 e JavaScript;
-- 🎲 Conhecimento básico - intermediário em Banco de Dados SQLite;
+- 🎲 Conhecimento (Básico - Intermediário) em Banco de Dados (MySql e SQL Server);
 - 🟩 Nível Adequado para criação de projetos em VBA;
 - 🟩 Criador da Planilha Digital de Estudos @rocketplanning;
