@@ -1,6 +1,6 @@
 ## <h1><b>Otávio<b></h1>
 
-- 👋 Olá! Meu nome é Otávio, nasci em 2006. Tenho 15 anos;
+- 👋 Nasci em 2006. Tenho 15 anos;
 - 🌟 Objetivo: Alcançar minha primeira vaga como programador estagiário;
 - 🧑‍🎓 Vestibulando de Ciência da Computação;
 - 📊 Estudante Autodidata;
