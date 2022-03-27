@@ -14,5 +14,5 @@
 ## <h1>Tecnologias</h1>
   <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" width=30px height=30px>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height=30px>
-  <img src="![image](https://user-images.githubusercontent.com/101956836/160306421-e7baa5e7-6056-4573-af44-bbc21f478128.png)" height=30px>
-  <img src="![image](https://user-images.githubusercontent.com/101956836/160306439-769dc8eb-1221-4524-9f45-4e1e5fec3d79.png)" height=30px>
+  <img src="https://img1.gratispng.com/20180816/ql/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f6479ca3.8709748315344660382933.jpg" height=30px>
+  <img src="https://miro.medium.com/max/344/1*tZHcs0d7MAG-BBcjBekZYA.png" height=30px>
