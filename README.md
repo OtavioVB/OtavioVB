@@ -14,9 +14,4 @@
 ## <h1>Tecnologias com nível básico</h1>
 <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" height=80px>
 
-  
-## <h1>Tecnologias que estou aprendendo</h1>
-  <li>ASP.Net Core</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
+  <blockquote>Apaixonado pela matemática</blockquote>
