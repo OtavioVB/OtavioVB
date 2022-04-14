@@ -4,7 +4,7 @@
 - 🌟 Objetivo: Alcançar minha primeira vaga como programador estagiário;
 - 🧑‍🎓 Vestibulando de Ciência da Computação;
 - 📊 Estudante Autodidata;
-- 📌 Conhecimento razoável em Back-End com a utilização da linguagem de programação C#;
+- 📌 Conhecimento em Back-End com a utilização da linguagem de programação C#;
 - 📌 Iniciante em JavaScript, marcador de texto HTML5 e estilização de texto CSS3;
 - 🎲 Conhecimento em Banco de Dados (MySql e SQL Server);
 - 🟩 Nível Adequado para criação de projetos em VBA;
