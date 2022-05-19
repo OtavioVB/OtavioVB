@@ -9,6 +9,7 @@
 - 🎲 Conhecimento em Banco de Dados (MySql e SQL Server);
   
 ## <h1>Tecnologias em aprendizado</h1>
-<img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" height=80px>
+<img src="https://user-images.githubusercontent.com/101956836/169415424-23ee1669-4216-4212-915f-e057b08a171f.png" height=80px>
+<img src="https://user-images.githubusercontent.com/101956836/169415439-1e833a15-9fab-4ebf-93ab-3f2f8c3963ef.png" height=80px>
 
-  <br><br><br><blockquote>Apaixonado pela computação</blockquote>
+<br><br><br><blockquote>Apaixonado pela computação</blockquote>
