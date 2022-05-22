@@ -6,7 +6,7 @@
 - 📊 Estudante Autodidata;
 - 📌 Conhecimento em Back-End com a utilização da linguagem de programação C#;
 - 📌 Iniciante em JavaScript, marcador de texto HTML5 e estilização de texto CSS3;
-- 🎲 Conhecimento em Banco de Dados (MySql e SQL Server);
+- 🎲 Conhecimento em Banco de Dados (MySql, SQL Server e Postgree);
   
 ## <h1>Tecnologias em aprendizado</h1>
 <img src="https://user-images.githubusercontent.com/101956836/169415424-23ee1669-4216-4212-915f-e057b08a171f.png" height=80px>
