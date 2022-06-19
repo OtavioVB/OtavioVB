@@ -19,6 +19,6 @@
 
 
 ![otaviovb github stats](https://github-readme-stats.vercel.app/api?username=OtavioVB&show_icons=true&hide=["issues"])
-
+![otaviovb github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviovb&layout=compact&langs_count=7&theme=dracula)
 ![otaviovb github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=OtavioVB)
 
