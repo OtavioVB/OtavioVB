@@ -18,5 +18,7 @@
 <br><br><br><blockquote>Apaixonado pela computação</blockquote>
 
 
+![otaviovb github stats](https://github-readme-stats.vercel.app/api?username=OtavioVB&show_icons=true&hide=["issues"])
 
+![otaviovb github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=OtavioVB)
 
