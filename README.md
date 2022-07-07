@@ -14,9 +14,3 @@
 <img src="https://user-images.githubusercontent.com/101956836/169416140-f2eb2413-556d-417e-b8b6-76e5b2c7d538.png" height=80px>
 <img src="https://user-images.githubusercontent.com/101956836/169415949-9afe2eaa-57be-45c9-8713-ec3375c39f43.png" height=80px>
 <img src="https://user-images.githubusercontent.com/101956836/169673066-0a4801cc-901b-4837-9e75-337841b220b1.png" height=80px>
-
-<br><br><br><blockquote>Apaixonado pela computação</blockquote>
-
-  ![otaviovb github stats](https://github-readme-stats.vercel.app/api?username=OtavioVB&show_icons=true&hide=["issues"]&theme=dracula)<br>
-  ![otaviovb github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviovb&layout=compact&langs_count=7&theme=dracula)<br>
-  ![otaviovb github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=OtavioVB)
