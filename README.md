@@ -1,6 +1,6 @@
 ## <h1><b>Otávio<b></h1>
 
-- 👋 Nasci em 2006. Tenho 15 anos;
+- 👋 Nasci em 2006. Tenho 16 anos;
 - 📊 Estudante Autodidata;
 - 📌 Conhecimento em Back-End com a utilização da linguagem de programação C#;
 - 📌 Iniciante em JavaScript, marcador de texto HTML5 e estilização de texto CSS3;
