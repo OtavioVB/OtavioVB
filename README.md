@@ -1,16 +1,19 @@
-## <h1><b>Otávio<b></h1>
+# Otávio Villas Boas 
 
-- 👋 Nasci em 2006. Tenho 16 anos;
-- 📊 Estudante Autodidata;
-- 📌 Conhecimento em Back-End com a utilização da linguagem de programação C#;
-- 📌 Iniciante em JavaScript, marcador de texto HTML5 e estilização de texto CSS3;
-- 🎲 Conhecimento em Banco de Dados (MySql, SQL Server e Postgree);
-  
-## <h1>Tecnologias em aprendizado</h1>
-<img src="https://user-images.githubusercontent.com/101956836/169415424-23ee1669-4216-4212-915f-e057b08a171f.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169415439-1e833a15-9fab-4ebf-93ab-3f2f8c3963ef.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169415700-c7978687-b77a-4ad9-b44e-d3108b8b37f0.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169415764-e55a1e22-32c6-4c21-9989-44433a3920eb.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169416140-f2eb2413-556d-417e-b8b6-76e5b2c7d538.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169415949-9afe2eaa-57be-45c9-8713-ec3375c39f43.png" height=80px>
-<img src="https://user-images.githubusercontent.com/101956836/169673066-0a4801cc-901b-4837-9e75-337841b220b1.png" height=80px>
+## Sobre
+
+Meu nome é **Otávio**, tenho **16 anos**. Há 4 anos escrevi minha primeira linha de código em uma linguagem chamada "LUA" para um jogo que eu jogava na época. Desde então me tornei curioso pela área até me tornar um entusiasta. Infelizmente, nesse meio tempo, foram indas e vindas, e até o final de 2021 eu não tinha tanto foco no desenvolvimento. O foco em me desenvolver em tecnologia surgiu no final de 2021, começo de 2022, quando conheci o desenvolvimento de interfaces com o VBA (Sim é possível criar formulários com o VBA), após isso me apaixonei pela tecnologia e a trabalhar incessantemente para me desenvolver. Fiquei em torno de dois meses com VBA e comecei o desenvolvimento Back-End com C#, com um canal do Youtube chamado [CFB Cursos](https://www.youtube.com/watch?v=dVzJ3bx68FA&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi). A partir dessa playlist pude iniciar meus projetos (projetos que deram meio certo, por causa do forte acoplamento do sistema). Eu falo meio certo, pois com Windows Forms consegui criar um **sistema para cadastro de clientes** e **realização de pedidos**, mas **controle de receitas e estoque** não consegui realizar (motivado pelo forte acoplamento do sistema, dificuldade com a refatoração da aplicação).
+
+## Projetos
+
+### VBA | Janeiro de 2022
+Esse projeto foi sensacional e eu tenho certeza que ajuda e vai ajudar muitas pessoas. Trata-se de uma planilha para **controle**, **organização** e **verificação de seus estudos**. Foi criada uma versão paga (foi vendida uma única planilha) e uma versão gratuita que vou deixar disponibilizado para vocês em algum repositório. Tudo desenvolvido a partir do Visual Basic.
+
+## Tecnologias
+
+- ASP. Net Core
+- ASP. NET Core MVC
+- C# .NET 6
+- SQL Server, MySql
+- Git e GitHub
+- Windows Forms
