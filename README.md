@@ -6,14 +6,17 @@ Meu nome é **Otávio**, tenho **16 anos**. Há 4 anos escrevi minha primeira li
 
 ## Projetos
 
-### VBA - RocketPlanning | Janeiro de 2022 - Fevereiro de 2022
+### RocketPlanning | Janeiro de 2022 - Fevereiro de 2022
 Esse projeto foi sensacional e eu tenho certeza que ajuda e vai ajudar muitas pessoas. Trata-se de uma planilha para **controle**, **organização** e **verificação de seus estudos**. Foi criada uma versão paga (foi vendida uma única planilha) e uma versão gratuita que vou deixar disponibilizado para vocês em algum repositório. Tudo desenvolvido a partir do Visual Basic.
 
-### C# - EstudosWebApp | Junho de 2022 - Hoje
+### EstudosWebApp | Junho de 2022 - Hoje
 Esse projeto que já está disponível para visualização [aqui no GitHub](https://github.com/OtavioVB/Projeto-Estudos), busca desenvolver uma plataforma para estudantes que buscam **organizar seus estudos** e **otimizar os reparos de suas lacunas do conhecimento**.
 
-### C# - APIEnem | Julho de 2022 - Hoje
-Esse projeto é um projeto de [código aberto](https://pt.wikipedia.org/wiki/Software_de_c%C3%B3digo_aberto) que está [disponível nessa url](https://github.com/OtavioVB/api_enem_microdados). Busca-se criar uma API baseada nos [dados levantados pelo INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem) das provas do ENEM, tal API, realiza buscas no banco de dados a fim de criar levantamentos gerais, individuais e temporais baseado em alguns parâmetros passados pelo endpoint.
+### APIEnem | Julho de 2022 - Hoje
+Esse projeto de [código aberto](https://pt.wikipedia.org/wiki/Software_de_c%C3%B3digo_aberto) que está [disponível nessa url](https://github.com/OtavioVB/api_enem_microdados). Busca criar uma API baseada nos [dados levantados pelo INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem) das provas do ENEM, tal API, realiza buscas no banco de dados a fim de criar levantamentos gerais, individuais e temporais baseado em alguns parâmetros passados pelo endpoint.
+
+### Fórum de Artigos | Julho de 2022 - Hoje
+Esse projeto visa compartilhar meus conhecimentos que eu aprendi ao longo do tempo com outros desenvolvedores criando um site para propagação de informações em formato de artigos. Você pode acessar os artigos publicados [aqui](https://otaviovb.github.io/artigos/).
 
 ## Tecnologias
 
