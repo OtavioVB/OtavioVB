@@ -28,4 +28,4 @@ Esse projeto visa compartilhar meus conhecimentos que eu aprendi ao longo do tem
 - Windows Forms
 - Entity Framework Core
 - Testes de Unidade
-- Clean Archictecture
+- Clean Architecture
