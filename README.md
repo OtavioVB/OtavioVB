@@ -20,9 +20,12 @@ Esse projeto visa compartilhar meus conhecimentos que eu aprendi ao longo do tem
 
 ## Tecnologias
 
-- ASP. Net Core
+- ASP. NET Core Web API
 - ASP. NET Core MVC
 - C# .NET 6
 - SQL Server, MySql
 - Git e GitHub
 - Windows Forms
+- Entity Framework Core
+- Testes de Unidade
+- Clean Archictecture
