@@ -1,6 +1,6 @@
 # Otávio Villas Boas 
 
-Meu nome é Otávio, tenho 16 anos.
+Meu nome é Otávio.
 
 Desde cedo busco estar aprimoramento minhas habilidades e competências, de modo a atender as boas práticas do mercado, apesar de ser algo difícil quando está em processo de aprendizagem.
 
