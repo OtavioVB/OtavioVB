@@ -1,15 +1,14 @@
 # Otávio Villas Boas 
 
-Meu nome é Otávio.
+Sou Otávio Villas Boas Simoncini Carmanini, desenvolvedor de software dedicado a desenvolver soluções estratégicas e produtivas por meio do uso da tecnologia a fim de aperfeiçoar e engenhar processos de 
+negócios do zero. Apesar de novo, desde cedo busco a me capacitar tecnicamente e trocar experiências com pessoas de modo que eu consiga propor soluções, discutir regras de negócios e sugerir produtos 
+que realmente podem agregar algum valor tanto para sociedade quanto para o ambiente corporativo.
 
-Desde cedo busco estar aprimoramento minhas habilidades e competências, de modo a atender as boas práticas do mercado, apesar de ser algo difícil quando está em processo de aprendizagem.
+Assim, utilizando as tecnologias de minha origem na computação, com o ambiente de desenvolvimento do .NET (ASP. NET Core, C#), desenvolvo soluções de API que promovem a implementação dos requisitos de negócio, a garantia 
+da qualidade do software e a persistência do código ao longo das manutenções. Com base nisso, possuo experiência e conhecimento técnico com Orientação a Objetos, Design Patterns (Adapter, Factory, 
+Builder, Strategy, Chain of Responsability, Command Handler, Command, Notification, Singleton, UnitOfWork, Repository, Abstract Factory), Domain-Driven Design, SOLID, CI/CD com GitHub Actions, Docker/Docker Compose, 
+Políticas de Resiliência (Circuit Breaker e Retry), MER, Testes de Unidade, TDD, Segregação de Banco de Dados (CQRS), 
+Inversão de Controle, Injeção de Dependência, Worker Services, Imutabilidade, Modelagem de Domínio Ricos, Mensageria (RabbitMq), Banco de Dados Relacionais (MySQL, PostgreeSQL) e 
+Observabilidade (OpenTelemetry, Jaeger).
 
-Possuo conhecimentos em design patterns como forma de resolver problemas de acordo com a necessidade e o resultado esperado, a exemplo, Adapter Pattern, Factory Pattern, Repository Pattern, Notification Pattern, Mediator Pattern, Unit Of Work Pattern, Observer Pattern, Command Handler Pattern, Singleton Pattern e Retry Pattern.
-
-Por outro lado, possuo conhecimento em modelagem e acesso a dados com Entity Framework Core, PostgreSQL, MySQL e ADO.NET, utilizando técnicas de processamento dos dados como Transações. Utilizo CI/CD e Git/GitHub como forma de automatizar processos de trabalho para testabilidade e deployment.
-
-Além disso, resolvo problemas em certos contextos com a utilização de CQRS, Mensageria (RabbitMQ), Balanceamento de Cargas (Buffer) e modelagem de domínios ricos com a utilização de SOLID.
-
-Em contrapartida, utilizo os Testes Unitários, TDD e Observabilidade para administrar o monitoramento e a integridade da aplicação.
-
-Atualmente, estou consolidando meus conhecimentos em Aplicações Multitenant, Observabilidade com Open Telemetry, Políticas de Resiliência (Retry e Circuit Breaker), Linux/Bash, Docker/Docker-Compose e bancos de dados (PostgreeSQL/Redis/MongoDB).
+Atualmente, estou consolidando meus conhecimentos em Domain-Driven Design, Observabilidade com Métricas e Traces (Prometheus, Grafana, Jaeger e Open Telemetry) e Banco de Dados não Relacionais (Redis e MongoDb).
